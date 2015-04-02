@@ -1,0 +1,16 @@
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\C3DryEnd.exe.config
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\Interop.OPCAutomation.dll
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.vbproj.ResolveComReference.cache
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\C3DryEnd.exe
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\C3DryEnd.pdb
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\C3DryEnd.xml
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\IndustrialGadgetDotNet1.dll
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\IndustrialGadgetDotNet2.dll
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\bin\Release\NZipLib.dll
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.vbprojResolveAssemblyReference.cache
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.D3_Dry_Animation1.resources
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.Resources.resources
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.vbproj.GenerateResource.Cache
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.exe
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.xml
+C:\Users\lucev\Desktop\C3DryEnd\C3DryEnd\obj\Release\C3DryEnd.pdb
