@@ -512,5 +512,8 @@ Public Class FrmD8_Dry
     End Sub
 
 
+    Private Sub Duct_Cover_Load(sender As Object, e As EventArgs) Handles Duct_Cover.Load
+
+    End Sub
 End Class
 
